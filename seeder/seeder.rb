@@ -18,7 +18,7 @@ await sleep(1000);
 "
 
 pages << {
-  url: 'https://shopee.co.id/Laptop-col.832738?page=0',
+  url: 'https://shopee.co.id/Otomotif-cat.11043660?page=0',
   page_type: 'listings',
   fetch_type: 'browser',
   method: 'GET',
